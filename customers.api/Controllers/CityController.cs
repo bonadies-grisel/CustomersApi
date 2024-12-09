@@ -1,4 +1,5 @@
 ﻿using customers.domain;
+using Customers.AuxClasses;
 using Microsoft.AspNetCore.Mvc;
 
 namespace customers.api.Controllers
@@ -39,8 +40,12 @@ namespace customers.api.Controllers
 
         // POST: api/City
         [HttpPost]
-        public async Task<ActionResult<City>> PostCity(City city)
+        public async Task<ActionResult<City>> PostCity(CityAux cityAux)
         {
+            City city = new City();
+            city.CityName = cityAux.CityName;
+            QueryFactory.GetCityQuery();
+
             await _repository.AddAsync(city);
             await _repository.SaveChangesAsync();
 

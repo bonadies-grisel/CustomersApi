@@ -5,8 +5,8 @@ public static class QueryFactory
     private static ApplicationDbContext _context;
 
     private static PhoneCodeQuery _phoneCodeQuery;
-    private static CustomerQuery _customerQuery; // Ejemplo de otra clase query
-    // Agrega aquí más clases de tipo Query según sea necesario
+    private static CustomerQuery _customerQuery;
+    private static CityQuery _cityQuery;
 
     /// <summary>
     /// Inicializa el factory con el contexto de base de datos.
@@ -43,5 +43,14 @@ public static class QueryFactory
         return _customerQuery ??= new CustomerQuery(_context); // Singleton para CustomerQuery
     }
 
-    // Agrega más métodos para otras clases de tipo Query
+    public static CityQuery GetCityQuery()
+    {
+
+        if (_context == null)
+        {
+            throw new InvalidOperationException("El factory no ha sido inicializado con un contexto.");
+        }
+
+        return _cityQuery ??= new CityQuery(_context); // Singleton para CustomerQuery
+    }
 }
