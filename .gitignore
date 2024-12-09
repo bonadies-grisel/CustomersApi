@@ -216,3 +216,4 @@ customers.api/bin/Debug/net6.0/appsettings.Development.json
 .vs/Customers/FileContentIndex/7e68e5c7-fe8a-4a12-a7ff-12f5139c5bd2.vsidx
 customers.api/obj/Debug/net6.0/ApiEndpoints.json
 *.json
+.vs/Customers/v17/.suo
