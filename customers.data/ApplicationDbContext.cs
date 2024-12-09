@@ -21,8 +21,18 @@ namespace customers.data
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Gender>()
-                .Property(g => g.Id)
+            ConfigureEntityWithId<Customer>(modelBuilder);
+            ConfigureEntityWithId<Country>(modelBuilder);
+            ConfigureEntityWithId<City>(modelBuilder);
+            ConfigureEntityWithId<Gender>(modelBuilder);
+            ConfigureEntityWithId<PhoneNumber>(modelBuilder);
+            ConfigureEntityWithId<PhoneCode>(modelBuilder);
+        }
+
+        private void ConfigureEntityWithId<T>(ModelBuilder modelBuilder) where T : class
+        {
+            modelBuilder.Entity<T>()
+                .Property("Id")
                 .ValueGeneratedOnAdd();
         }
     }
