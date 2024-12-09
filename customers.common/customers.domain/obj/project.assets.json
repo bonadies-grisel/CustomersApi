@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj",
+      "projectUniqueName": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.common\\customers.domain\\customers.domain.csproj",
       "projectName": "customers.domain",
-      "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj",
+      "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.common\\customers.domain\\customers.domain.csproj",
       "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\obj\\",
+      "outputPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.common\\customers.domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",

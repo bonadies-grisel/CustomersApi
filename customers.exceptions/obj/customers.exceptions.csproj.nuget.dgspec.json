@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj": {}
+    "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.exceptions\\customers.exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj": {
+    "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.exceptions\\customers.exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.exceptions\\customers.exceptions.csproj",
         "projectName": "customers.exceptions",
-        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj",
+        "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.exceptions\\customers.exceptions.csproj",
         "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\obj\\",
+        "outputPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",

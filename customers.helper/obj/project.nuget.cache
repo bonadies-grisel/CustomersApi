@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnAKKyPS3vQ=",
+  "dgSpecHash": "yreLgCFSCQw=",
   "success": true,
-  "projectFilePath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj",
+  "projectFilePath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.helper\\customers.helper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrunoFerrante\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\BrunoFerrante\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

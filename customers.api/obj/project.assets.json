@@ -2461,11 +2461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.api\\Customers.csproj",
+      "projectUniqueName": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.api\\Customers.csproj",
       "projectName": "Customers",
-      "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.api\\Customers.csproj",
+      "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.api\\Customers.csproj",
       "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.api\\obj\\",
+      "outputPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2483,17 +2483,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj": {
-              "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj"
+            "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.bussiness\\customers.bussiness.csproj": {
+              "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.bussiness\\customers.bussiness.csproj"
             },
-            "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj": {
-              "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj"
+            "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.common\\customers.domain\\customers.domain.csproj": {
+              "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.common\\customers.domain\\customers.domain.csproj"
             },
-            "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj": {
-              "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj"
+            "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.data\\customers.data.csproj": {
+              "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.data\\customers.data.csproj"
             },
-            "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj": {
-              "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj"
+            "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.helper\\customers.helper.csproj": {
+              "projectPath": "C:\\Users\\BrunoFerrante\\Documents\\GitHub\\CustomersApi\\customers.helper\\customers.helper.csproj"
             }
           }
         }
