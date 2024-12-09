@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\customers.common\customers.domain\customers.domain.csproj" />
+    <ProjectReference Include="..\customers.data\customers.data.csproj" />
+    <ProjectReference Include="..\customers.exceptions\customers.exceptions.csproj" />
+    <ProjectReference Include="..\customers.helper\customers.helper.csproj" />
+  </ItemGroup>
+
+</Project>

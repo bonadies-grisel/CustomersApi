@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj",
+        "projectName": "customers.bussiness",
+        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\customers.bussiness.csproj",
+        "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj"
+              },
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj"
+              },
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj"
+              },
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj",
+        "projectName": "customers.domain",
+        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj",
+        "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj",
+        "projectName": "customers.data",
+        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj",
+        "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.common\\customers.domain\\customers.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj",
+        "projectName": "customers.exceptions",
+        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\customers.exceptions.csproj",
+        "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj",
+        "projectName": "customers.helper",
+        "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\customers.helper.csproj",
+        "packagesPath": "C:\\Users\\BrunoFerrante\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BrunoFerrante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj": {
+                "projectPath": "C:\\Proyecto INTUIT morales bonadies\\Customers\\customers.data\\customers.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
